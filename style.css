@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@300&display=swap');
+
+
+html,
+* {
+    margin: 0%;
+    padding: 0%;
+    font-family: 'DM Mono', monospace;
+}
+
+body {
+    background-color: rgb(30, 30, 30);
+}
+
+.general * {
+    /* color: rgb(0, 255, 0); */
+    display: flex;
+    /* border: solid 1px crimson; */
+}
+
+.general {
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+}
+
+.logo {
+    color: rgb(0, 255, 0);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+span {
+    font-size: 125px;
+}
+
+p {
+    font-size: 50px;
+    color:antiquewhite
+}
