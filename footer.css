@@ -34,7 +34,7 @@ ul {
   /* below is just for demo styling */
   
   footer {
-    display: flex;
+    /* display: flex; */
     height: 300px;
     width: 100%;
     background-color: rgb(30, 30, 30);
