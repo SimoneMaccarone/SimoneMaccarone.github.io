@@ -8,9 +8,23 @@ html,
     font-family: 'DM Mono', monospace;
     background-color: rgb(30, 30, 30);
     border-radius: 100px;
-
-
+    justify-content: center;
+    text-decoration: none;
+    align-self: center;
+    overflow: auto;
 }
+body{
+    color: lime;
+}
+
+
+.HOME{
+    display: flex;
+    justify-content: end;
+    text-decoration: none;
+    color: lime;
+}
+
 .progetti-frame{
     display: flex;
     flex-direction: row;
